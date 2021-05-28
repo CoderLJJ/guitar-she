@@ -1,0 +1,6 @@
+pandas==1.2.4
+lxml==4.6.3
+requests==2.25.1
+xlrd==1.2.0
+selenium==3.141.0
+beautifulsoup4==4.9.3
